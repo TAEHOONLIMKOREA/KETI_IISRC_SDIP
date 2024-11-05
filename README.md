@@ -29,3 +29,22 @@ celery==5.4.0 <br/>
 클릭시 API Docs 페이지 이동 <br/>
 위 주소에 API 경로를 병합해서 사용 ( e.g. bigsoft.iptime.org:55414/sensor/InputSensorData )
 
+### [4] 서버 실행 방법
+
+#### 1) 원하는 디렉토리에 git 명령어를 이용하여 코드 다운로드
+``` {bash}
+git clone 
+```
+
+#### 2) DB서버 실행
+``` {bash}
+docker-compose -f timescale-compose.yml up -d
+```
+``` {bash}
+docker-compose -f mongo-compose.yml up -d
+```
+
+#### 3) 서버 실행
+``` {bash}
+docker-compose -f timescale-compose.yml up -d
+```
