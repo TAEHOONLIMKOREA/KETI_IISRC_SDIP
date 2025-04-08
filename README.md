@@ -25,11 +25,15 @@ celery==5.4.0 <br/>
 
 ### [2] 모니터링 웹 서비스 사용 (pgAdmin)
 주소 : http://bigsoft.iptime.org:55413 <br/>
+![image](https://github.com/user-attachments/assets/e7a1eafc-0742-4eff-be30-42799b27ad00)
+
 
 ### [3] API Docs 접속
 주소 : http://bigsoft.iptime.org:55414 <br/>
 클릭시 API Docs 페이지 이동 <br/>
 위 주소에 API 경로를 병합해서 사용 ( e.g. bigsoft.iptime.org:55414/sensor/InputSensorData )
+![image](https://github.com/user-attachments/assets/564dce51-b82a-4d21-ac72-117233d1f3a2)
+
 
 
 ### [4] 서버 실행 방법
