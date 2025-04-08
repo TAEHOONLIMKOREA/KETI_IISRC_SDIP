@@ -25,7 +25,8 @@ celery==5.4.0 <br/>
 
 ### [2] 모니터링 웹 서비스 사용 (pgAdmin)
 주소 : http://bigsoft.iptime.org:55413 <br/>
-![image](https://github.com/user-attachments/assets/e7a1eafc-0742-4eff-be30-42799b27ad00)
+![image](https://github.com/user-attachments/assets/5b2cb144-7245-4e2e-9586-5739abbb2273)
+
 
 
 ### [3] API Docs 접속
