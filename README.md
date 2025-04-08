@@ -20,7 +20,8 @@ celery==5.4.0 <br/>
 <hr>
 
 ### [1] 서버 구성도
-![image](https://github.com/user-attachments/assets/7e920969-6839-43ab-9349-d9a0afa77d56)
+![image](https://github.com/user-attachments/assets/115c5a87-4694-4683-af74-ae1642565eb6)
+
 
 ### [2] 모니터링 웹 서비스 사용 (pgAdmin)
 주소 : http://bigsoft.iptime.org:55413 <br/>
